@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace DrawSystem
+namespace LineDrawSystem
 {
     public abstract class LineData : ScriptableObject
     {

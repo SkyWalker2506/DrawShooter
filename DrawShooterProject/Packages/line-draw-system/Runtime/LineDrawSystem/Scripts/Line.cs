@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace DrawSystem
+namespace LineDrawSystem
 {
     public class Line 
     {

@@ -1,0 +1,17 @@
+{
+  "name": "com.bytegames.line-draw-system",
+  "version": "1.0.0",
+  "displayName": "Line Draw System",
+  "description": "A helper system for drawing lines.",
+  "unity": "2017.1",
+  "keywords": [
+    "draw",
+    "lineRenderer",
+    "utility"
+  ],
+  "author": {
+    "name": "Musab Kara",
+    "email": "musabkara1990@gmail.com"
+  },
+  "type": "tool"
+}
