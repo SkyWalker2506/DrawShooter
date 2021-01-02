@@ -1,0 +1,17 @@
+{
+  "name": "com.bytegames.save-system",
+  "version": "1.0.0",
+  "displayName": "Save System",
+  "description": "Save System",
+  "unity": "2017.1",
+  "keywords": [
+    "playerprefs",
+    "save",
+    "utility"
+  ],
+  "author": {
+    "name": "Musab Kara",
+    "email": "musabkara1990@gmail.com"
+  },
+  "type": "tool"
+}

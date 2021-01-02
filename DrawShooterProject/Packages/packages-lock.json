@@ -6,6 +6,24 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.bytegames.save-system": {
+      "version": "file:save-system",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.bytegames.sequential-movement-system": {
+      "version": "file:sequential-movement-system",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.bytegames.touch-system": {
+      "version": "file:touch-system",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
